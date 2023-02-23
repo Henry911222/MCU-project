@@ -10,7 +10,7 @@ This homework is to specify a Innovative Project proposal and describe the key f
 
 ---
 ## Futre Home Applications
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zwWg6hkj6mU" title="【釣魚日記】居然一個人包池的雲海溫泉….還有竿竿咬的點...新手也不會喊累..真是完美的一趟旅程........fishing｜采蓁 Patti ＠雲海溫泉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Nextflix movie: Big Bug
 <iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
