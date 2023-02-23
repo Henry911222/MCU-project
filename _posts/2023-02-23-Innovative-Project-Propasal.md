@@ -86,7 +86,7 @@ This homework is to specify a Innovative Project proposal and describe the key f
    - 任務規劃與控制: Mission Planner with Floorplan
 
 ### 系統方塊圖
-![]https://github.com/Henry911222/MCU-project/blob/main/images/043-2.jpg?raw=true
+![](https://github.com/Henry911222/MCU-project/blob/main/images/043-2.jpg?raw=true)
 
 ---
 ## 料理機器人
