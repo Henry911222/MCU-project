@@ -35,7 +35,7 @@ This homework is to specify a Innovative Project proposal and describe the key f
   - Draw a System Block Diagram
 
 ---
-## 家用飛行機器人
+## 家用飛行
 ### 應用功能說明
 1. 居家監控：外出時可隨時查看家裡各處狀況
 2. 環境監測：溫濕度感測+瓦斯偵測+空氣品質偵測 
