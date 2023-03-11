@@ -10,7 +10,7 @@ This homework is to specify a Innovative Project proposal and describe the key f
 
 ---
 ## Futre Home Applications
-https://www.youtube.com/watch?v=jo-Vt6_p7z8&ab_channel=TVBSNEWS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jo-Vt6_p7z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Homework Report
 **Contents:**<br>
 * **應用與功能說明**
