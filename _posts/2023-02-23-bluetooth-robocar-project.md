@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 藍牙遙控機器人實作
-author: [Richard Kuo]
+author: [Henry Lin]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -11,7 +11,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ---
 ## 藍牙遙控機器人
 ![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
-
+<iframe width="885" height="498" src="https://www.youtube.com/embed/QGGFdLfzZkc" title="微控制介面與驅動設計 期中作業-藍芽遙控機器人" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 應用功能說明
 1. Bluetooth remote control App 
