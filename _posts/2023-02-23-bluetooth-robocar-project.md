@@ -33,7 +33,8 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ### 程式碼
 ![](https://raw.githubusercontent.com/Henry911222/MCU-project/main/images/92111.png)
-
+###方塊圖
+![](https://github.com/Henry911222/MCU-project/blob/main/images/1.drawio.png?raw=true)
 <br>
 <br>
 
