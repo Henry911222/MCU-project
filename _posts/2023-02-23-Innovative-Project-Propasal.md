@@ -47,7 +47,7 @@ This homework is to specify a Innovative Project proposal and describe the key f
 
 ### 系統方塊圖
 ![](https://raw.githubusercontent.com/Henry911222/MCU-project/main/images/%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8.png)
-
+![](https://raw.githubusercontent.com/Henry911222/MCU-project/main/images/343922685_1382662665904531_1255439180559653735_n.jpg)
 <br>
 <br>
 
